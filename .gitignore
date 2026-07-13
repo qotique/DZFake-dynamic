@@ -1,0 +1,22 @@
+# Config with real values
+config.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# PyArmor build artifacts
+src/*.py
+!src/dist/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~

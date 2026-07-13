@@ -1,0 +1,10 @@
+{
+  "proxy_port": 2310,
+  "real_port": 2311,
+  "fake_players_min": 1,
+  "fake_players_max": 3,
+  "drift_interval_min": 300,
+  "drift_interval_max": 600,
+  "buffer_size": 4096,
+  "timeout": 5.0
+}
